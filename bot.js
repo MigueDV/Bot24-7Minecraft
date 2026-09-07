@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'mc.zelixhost.xyz:25797',
+        host: 'mc.zelixhost.xyz',
         port: 25797,               
         username: 'MiguelzinYTProHakerGamer6767XXXTentation777',   
         version: false              // Autodetecta la versión exacta del servidor (1.8 a 1.21+)
